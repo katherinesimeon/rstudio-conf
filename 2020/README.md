@@ -1011,8 +1011,8 @@ What They Forgot to Teach You about R Workshop	|	Kara Woo, Jenny Bryan, Jim Hest
 
 
 **Teaching R Outside the Classroom: Supporting Instructors and Learners**
-<br>by Diya Das
-<br>Materials:
+<br>by Diya Das, Angela Li, & Katherine Simeon
+<br>Materials: [poster](https://github.com/katherinesimeon/rstudioconf2020-teachR-eposter)
 <br>
 
 
